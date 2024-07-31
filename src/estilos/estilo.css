@@ -1,0 +1,50 @@
+.titulos
+{
+    background-color: rgb(191, 69, 60);
+    color: white;
+    display: flex;
+    justify-content: end;
+}
+
+.subtitulos
+{
+    margin: 10px;
+}
+.piepag
+{
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    display: flex;
+    justify-content: center;
+    padding-top: 0%;
+}
+.piepagina
+{
+    margin: 10px;
+}
+.pieDepagina
+{
+    width: 90px;
+}
+.cuerpobus
+{
+    width: 800px;
+    margin-left: -36%;
+}
+.col2
+{
+    background-color: bisque;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 31.6%;  
+}
+.submenubus
+{
+    float: none;
+    width: 100px;
+}
+.colorcito
+{
+    background-color: rgb(191, 69, 60);
+}
